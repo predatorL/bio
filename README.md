@@ -18,7 +18,7 @@
  - 本科/电子信息工程
  - 工作年限：2年
  - 技术博客：http://www.cnblogs.com/so-letitgo
- - Github：https://github.com/DH-DK
+ - Github：https://github.com/lhy90s
 
  - 期望职位：Web前端
  - 期望城市：北京
